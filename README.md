@@ -89,20 +89,20 @@ The_Everyday_Reads/
 
 Logic Highlights
 
-Book availability automatically decreases on borrowing
-Availability increases when a book is returned
-Borrowing is blocked if no copies are available
-Days left for return are calculated dynamically
+Book availability automatically decreases on borrowing, 
+Availability increases when a book is returned, 
+Borrowing is blocked if no copies are available, 
+Days left for return are calculated dynamically, 
 Admin always sees real-time issue data
 
 
 
 Future Enhancements 
 
-Overdue fine calculation
-Search & sort in admin borrowed view
-Password encryption for admins
-Export reports (CSV / PDF)
+Overdue fine calculation, 
+Search & sort in admin borrowed view, 
+Password encryption for admins, 
+Export reports (CSV / PDF) 
 
 
 Developed By
